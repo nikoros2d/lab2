@@ -109,8 +109,8 @@ namespace ProgressTable.ViewModels
             });
             Students = new Student[]
             {
-                new Student{Name="Патрушев Никита Владимирович", Visual=2, Architecture=2, Networks=2, Calculate_Math=2, PI=2, Math=2, Electric=2},
-                new Student{Name="Кузьменок Денис Витальевич", Visual=2, Architecture=2, Networks=2, Calculate_Math=2, PI=2, Math=2, Electric=2},
+                new Student{Name="Sorokin Vladislav Sergeevich", Visual=2, Architecture=2, Networks=2, Calculate_Math=2, PI=2, Math=2, Electric=2},
+                new Student{Name="Zubenko Michail Petrovich", Visual=2, Architecture=2, Networks=2, Calculate_Math=2, PI=2, Math=2, Electric=2},
             };
             CheckAverage(students);
 
